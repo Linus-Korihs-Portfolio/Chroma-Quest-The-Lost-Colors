@@ -60,4 +60,4 @@ This fork reflects the final submitted version of the project.
 
 - Original repository: [LinusKorihs/Chroma-Quest-The-Lost-Colors](https://github.com/LinusKorihs/Chroma-Quest-The-Lost-Colors)
 - Portfolio: Coming soon
-- [Itch.IO: Chroma Quest: The Lost Colors](https://chromaquest.itch.io/chroma-quest-the-lost-colors)
+- Itch.IO: [Chroma Quest: The Lost Colors](https://chromaquest.itch.io/chroma-quest-the-lost-colors)
