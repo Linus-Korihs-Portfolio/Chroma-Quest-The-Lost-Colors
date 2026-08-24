@@ -42,7 +42,7 @@ My main contributions:
 
 ### Physics Puzzle Interaction
 
-The puzzle system is mainly movable stones and pressure plates to open secret doors and progress further.
+The puzzle system uses movable stones and pressure plates to open secret doors and progress through the level.
 
 | Stone Push Puzzle 1 | Stone Push Puzzle 2 |
 |---|---|
